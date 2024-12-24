@@ -1,0 +1,3 @@
+# Librerías necesarias
+
+python-telegram-bot==20.5  # Verifica la última versión compatible
